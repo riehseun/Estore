@@ -1,0 +1,1 @@
+<div id="footer">Copyright | <a href="admin/index.php">Admin</a> | <a href="logout.php">Log out</a></div>
